@@ -6,7 +6,7 @@
 # catalog-version 1.20
 Name:		texlive-umich-thesis
 Version:	1.20
-Release:	7
+Release:	8
 Summary:	University of Michigan Thesis LaTeX class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/umich-thesis
