@@ -1,6 +1,6 @@
 Name:		texlive-umich-thesis
 Version:	15878
-Release:	1
+Release:	2
 Summary:	University of Michigan Thesis LaTeX class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/umich-thesis
